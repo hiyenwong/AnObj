@@ -10,9 +10,11 @@
         },
         {
             "name": "nickunderscoremok",
+            "email": null
         },
         {
-            "name": "George Mihailov"
+            "name": "George Mihailov",
+            "email": null
         }
     ],
     "require": {}
