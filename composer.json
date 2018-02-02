@@ -1,0 +1,19 @@
+{
+    "name": "hiyen/an-obj",
+    "description": "array convert to a object",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hi Yen",
+            "email": "robinwong51@qq.com"
+        },
+        {
+            "name": "nickunderscoremok",
+        },
+        {
+            "name": "George Mihailov"
+        }
+    ],
+    "require": {}
+}
