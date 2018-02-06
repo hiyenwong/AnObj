@@ -17,5 +17,7 @@
             "email": null
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^7.0"
+    }
 }

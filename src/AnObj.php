@@ -44,8 +44,6 @@
   		if (!is_callable($callable))
   			throw new BadMethodCallException("Method {$name} does not exists");
 
-      $method = $callable->call($this);
-
   		return call_user_func_array($callable, $arguments);
   	}
   }
